@@ -1,0 +1,30 @@
+{
+    "admin": {
+        "contact": "admin",
+        "password": "admin"
+    },
+    "momo": {
+        "contact": "momo@griffituni.edu.au",
+        "password": "12345"
+    },
+    "lin": {
+        "contact": "lin@griffituni.edu.au",
+        "password": "12345"
+    },
+    "coco": {
+        "contact": "coco@griffituni.edu.au",
+        "password": "12345"
+    },
+    "mimi": {
+        "contact": "mimi@griffituni.edu.au",
+        "password": "12345"
+    },
+    "adf": {
+        "contact": "john@griffituni.edu.au",
+        "password": "dasdf"
+    },
+    "meow": {
+        "contact": "meow@griffituni.edu.au",
+        "password": "123"
+    }
+}

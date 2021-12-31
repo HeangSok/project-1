@@ -1,0 +1,1 @@
+It is recommended to run this software on a Mac machine. Running this software may result in button overlapping. 
